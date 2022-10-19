@@ -1,2 +1,2 @@
-# life_cycle_lite
-Introduction to life cycle models
+# Introduction to Life Cycle models
+
